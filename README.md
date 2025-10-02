@@ -13,6 +13,7 @@
 ![LEAN](https://img.shields.io/badge/-Lean-DC322F?logo=leanpub&logoColor=white)  
 ![Lean](https://img.shields.io/badge/-Lean-DC322F?logo=data:image/png;base64,<base64-encoded-image>&logoColor=white)
 ![Lean](https://img.shields.io/badge/-Lean-DC322F?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABQCAIAAADTD63nAAABQ0lEQVR4nO3cu20CQRRA0QW5ExcAgv5LsOQCTC8OJtkPsrHNlQU6RwRPwwYTXM0ggt19nA4T&logoColor=white)
+![Lean](https://img.shields.io/badge/-Lean-DC322F?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTYzIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDk2MyAzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHRleHQgeD0iMTAiIHk9IjIwMCIgZm9udC1mYW1pbHk9IlNlcmlmIiBmb250LXNpemU9IjIwMCIgZmlsbD0id2hpdGUiPkxlYW48L3RleHQ+Cjwvc3ZnPg==&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)  

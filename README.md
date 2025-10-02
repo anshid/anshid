@@ -11,6 +11,7 @@
 ## 🛠 Tech & Tools  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![LEAN](https://img.shields.io/badge/-Lean-DC322F?logo=leanpub&logoColor=white)  
+![Lean](https://img.shields.io/badge/-Lean-DC322F?logo=data:image/png;base64,<base64-encoded-image>&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  

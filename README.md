@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Anshid
 
-**AI/ML Engineer with a Strong Mathematics Background | PhD Researcher in Dynamical Systems**
+**AI/ML Engineer with a Strong Mathematics Background**
 
 I build **machine learning systems grounded in rigorous mathematical thinking**.
 

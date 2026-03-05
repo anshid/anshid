@@ -33,7 +33,8 @@ I build **machine learning systems grounded in rigorous mathematical thinking**.
 
 ## 🔗 Connect with Me  
 - 🌐 [LinkedIn](https://linkedin.com/in/anshidaboobacker/)  
-- ✉️ [Email](mailto:anshidaboobackerk@gmail.com)  
+- ✉️ [Email](mailto:anshidaboobackerk@gmail.com)
+- 🌐 [Notion](https://www.notion.so/anshid/Anshid-Researcher-Educator-Learner-1fc346e2c42c80e0ab1af2fe025d21aa) 
 
 ---
 
